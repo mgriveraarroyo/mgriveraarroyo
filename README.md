@@ -1,54 +1,54 @@
 # Hi 👋 / Hola 👋
 
-**Michael G. Rivera Arroyo** — Trujillo Alto / San Juan, Puerto Rico
-Web Developer · Systems Builder · Crew Chief & Instrumentation Specialist
-Bilingual ES/EN · available on-site, hybrid, or remote
+<p align="center">
+  <img src="https://img.shields.io/badge/FORGE_OS-active-002060?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_Ecosystem-Developer-blue?style=for-the-badge&logo=google-gemini&logoColor=white&color=1a73e8" />
+  <img src="https://img.shields.io/badge/Field_Operations-Lead-navy?style=for-the-badge&color=002060" />
+</p>
+
+**Michael G. Rivera Arroyo** — San Juan, Puerto Rico
+*Systems Builder · Technical Operations Lead · Crew Chief & Subsurface Specialist*
+Bilingual ES/EN · geographic mobility (PR, USVI, US Mainland)
 
 ---
 
-## 🛠 Web development — FORGE Digital
+## 🛠 Web & Systems Architecture — FORGE Digital
+I design, build, and deploy premium editorial web applications and automated workflows for independent professionals, featuring high-fidelity responsive interfaces and zero-incident operational security.
 
-I build premium editorial websites for independent professionals — intake → structured brief → design / code / deploy → external QA → live 24/7. The *how* is mine; what gets individualized is the attention and care brought to each client.
+- 🌹 **[Strands & Roses](https://strandsandroses.com)** · Atlanta-based hair / lash / bilingual studio — Square integration + automated feeds, custom responsive layout · *Production Live & Verified*.
+- 🖋 **[Malamia Studio](https://github.com/mgriveraarroyo/malamiastudiopr)** · Fine-line & microrealism tattoo studio in San Juan, PR — Build complete, visual asset-pipeline.
+- 🔗 **Automation Engine**: Powered by local-first Python/Bash daemons, custom Model Context Protocol (MCP) servers, and integrated `n8n` cloud dispatchers.
 
-- **[Strands & Roses](https://mgriveraarroyo.github.io/strandsandroses/)** · Atlanta-based hair / lash / fine-art studio — Square booking + Instagram feed + Google Maps, device-aware responsive design · **91.4% external QA pass**.
-
-Static HTML/CSS/JS · key-free architecture · GitHub Pages · custom SVG identity · external form handlers · SHA-matched deploys.
-
----
-
-## 🎥 FORGE Systems — on YouTube
-
-A channel on open-source AI tools and automation — one tool, one working system, per video. Built on `n8n` workflows and the open-source stack below.
-▶️ [youtube.com/@forgedigitalpr](https://youtube.com/@forgedigitalpr)
+*Stack: Static HTML5/Vanilla CSS3/JS · GitHub Pages · key-free browser architectures · SHA-matched deployment workflows.*
 
 ---
 
-## 🧰 What I work with
-
-**Web:**
-`HTML/CSS/JS` · responsive design · `GitHub Pages` · `Git discipline (signed commits, no force-push)`
-
-**Software & AI:**
-`Python` · `Bash` · `JavaScript` · `Playwright` (authenticated browser automation) · `Anthropic SDK` · `OpenAI SDK` · `llama.cpp` · `LanceDB` · `ONNX` · local-first AI tooling
-
-**Field / SUE (5+ years):**
-`Trimble GPS` · `Trimble Total Station` · `US Radar GPR` · `GSSI GPR` · `Ditch Witch` · `Vermeer G3` · `Ridgid` · `GIS` · `Blueprint reading` · `Crew leadership` · field safety
+## 🎥 Systems Automation & YouTube
+Developing and sharing automated workflows, browser controllers, and open-source AI integrations.
+▶️ **[youtube.com/@forgedigitalpr](https://youtube.com/@forgedigitalpr)**
 
 ---
 
-## 🇵🇷 Background
+## 🧰 Technical Core Competencies
 
-Five years as a survey & subsurface-utilities crew chief and instrumentation specialist across Puerto Rico and Florida — Trimble GPS/Total Station + a full EM/GPR suite, working for engineering contractors. Since 2026, building software and the web: field-grade precision applied to code — measure, verify, deploy.
-
-Bilingual Spanish / English.
-
----
-
-## 📬 Contact
-
-📧 [riveramichael9006@gmail.com](mailto:riveramichael9006@gmail.com)
-📍 Trujillo Alto / San Juan, Puerto Rico
+| Domain | Tools & Technologies |
+|---|---|
+| **Web & Frontend** | `HTML5` · `Vanilla CSS3` · `JavaScript` · responsive design · `GitHub Pages` · `Git (signed commits)` |
+| **Automation & AI** | `Python` · `Bash` · `Playwright` (headless browser automation) · `Gemini API` · `Google GenAI SDK` · `Model Context Protocol (MCP)` · `n8n` |
+| **Sensing & Geophysics** | `Ground Penetrating Radar (GPR - US Radar, GSSI)` · `Electromagnetic Locators` · `Trimble GPS / Total Station` · `GIS-ready integration` |
+| **Field Leadership** | `Crew Command (5+ members)` · `OSHA 10-Hour Certification` · `ASCE 38 (SUE mapping)` · high-stakes field safety |
 
 ---
 
-*Del campo al código. Field-grade precision applied to software.*
+## 🇵🇷 Background & Philosophy
+Over 15 years directing high-stress operations, including 5+ years as a geophysical survey crew chief mapping critical infrastructure. Today, I translate that same field-grade precision into software: rigorous measurement, strict validation, and automated quality assurance.
+
+---
+
+## 📬 Connect
+- 📧 **[riveramichael9006@gmail.com](mailto:riveramichael9006@gmail.com)**
+- 📍 San Juan, Puerto Rico
+
+<p align="center">
+  <i>"Del campo al código. Field-grade precision applied to software."</i>
+</p>
