@@ -12,14 +12,14 @@ Bilingual ES/EN · geographic mobility (PR, USVI, US Mainland)
 
 ---
 
-## 🛠 Web & Systems Architecture — FORGE Digital
-I design, build, and deploy premium editorial web applications and automated workflows for independent professionals, featuring high-fidelity responsive interfaces and zero-incident operational security.
+## 🛠 Systems Engineering & Web Architecture
+I design, build, and deploy high-fidelity technical web applications, local-first automation pipelines, and custom integration tools. Focused on bringing field-grade operational precision and strict quality standards to software.
 
-- 🌹 **[Strands & Roses](https://strandsandroses.com)** · Atlanta-based hair / lash / bilingual studio — Square integration + automated feeds, custom responsive layout · *Production Live & Verified*.
-- 🖋 **[Malamia Studio](https://github.com/mgriveraarroyo/malamiastudiopr)** · Fine-line & microrealism tattoo studio in San Juan, PR — Build complete, visual asset-pipeline.
-- 🔗 **Automation Engine**: Powered by local-first Python/Bash daemons, custom Model Context Protocol (MCP) servers, and integrated `n8n` cloud dispatchers.
+- 🌐 **Premium Web Systems**: Developing custom, device-aware editorial architectures featuring key-free client-side code, external API integrations (Stripe, Square, calendar systems), and strict performance optimizations.
+- 🔗 **Automation & AI Tooling**: Building autonomous agent flows and custom Model Context Protocol (MCP) servers linked with cloud integration nodes (`n8n` engines) to drive backend operations.
+- 🛠 **System Diagnostics**: Implementing local-first monitoring daemons, auto-sync pipelines, and custom CLI tools for system state-management.
 
-*Stack: Static HTML5/Vanilla CSS3/JS · GitHub Pages · key-free browser architectures · SHA-matched deployment workflows.*
+*Architecture Focus: Static HTML5/Vanilla CSS3/JS · GitHub Pages deployments · key-free API integration · SHA-matched production validation.*
 
 ---
 
